@@ -1,0 +1,26 @@
+{
+  "gitbook": "3.2.0",
+  "title": "pengenalan-vuejs-dasar",
+  "description": "Repository pengenalan framework Vue.js dasar dalam bahasa Indonesia",
+  "author": "Irfan Maulana (https://www.gitbook.com/@mazipan)",
+  "plugins": [
+    "prism",
+    "-highlight",
+    "github",
+    "-sharing",
+    "comment@1.0.5"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/mazipan/pengenalan-vuejs-dasar/"
+    },
+    "sharing": {
+      "facebook": true,
+      "twitter": true,
+      "google": false,
+      "weibo": false,
+      "instapaper": false,
+      "vk": false
+    }
+  }
+}

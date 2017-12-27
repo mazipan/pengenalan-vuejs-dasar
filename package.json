@@ -1,0 +1,27 @@
+{
+  "name": "pengenalan-vuejs-dasar",
+  "description": "Repository pengenalan framework Vue.js dasar dalam bahasa Indonesia",
+  "version": "0.0.1-alpha",
+  "license": "MIT",
+  "author": "Irfan Maulana (https://github.com/mazipan/)",
+  "homepage": "https://mazipan.github.io/pengenalan-vuejs-dasar/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mazipan/pengenalan-vuejs-dasar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mazipan/pengenalan-vuejs-dasar/issues"
+  },
+  "scripts": {
+    "serve": "gitbook install && gitbook serve"
+  },
+  "devDependencies": {
+    "gitbook-cli": "2.3.2"
+  },
+  "dependencies": {
+    "gitbook-plugin-comment": "^1.0.5",
+    "gitbook-plugin-favicon": "0.0.2",
+    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-prism": "^2.3.0"
+  }
+}
